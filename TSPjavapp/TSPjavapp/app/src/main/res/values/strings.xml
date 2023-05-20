@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TSPjavapp</string>
+    <string name="run_tsp_button_description">Run the Traveling Salesman Problem algorithm</string>
+</resources>
